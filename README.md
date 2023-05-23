@@ -32,18 +32,13 @@
   <h2>🌐 Connect with me</h2>
   <ul>
     <li>
-      <a href="https://www.linkedin.com/" target="_blank">
-        <img src="linkedin-icon-placeholder.png" alt="LinkedIn Icon">
+      <a href="https://www.instagram.com/uuleins/" target="_blank">
+        <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png" alt="Instagram Icon">
       </a>
     </li>
     <li>
-      <a href="https://www.twitter.com/" target="_blank">
-        <img src="twitter-icon-placeholder.png" alt="Twitter Icon">
-      </a>
-    </li>
-    <li>
-      <a href="https://www.instagram.com/" target="_blank">
-        <img src="instagram-icon-placeholder.png" alt="Instagram Icon">
+      <a href="https://www.instagram.com/">
+        <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_White_512px.png" alt="gmail Icon">
       </a>
     </li>
   </ul>
