@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>GitHub Readme - Munkhbat</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 </head>
+  
 <body>
   <h1>Hi, I'm Munkhbat! 👋</h1>
   <img src="https://i.pinimg.com/originals/97/72/a6/9772a650b4832c47534ede52108e40e2.gif" alt="astroman" height=520 width="1080px" style="object-fit: cover;"/>  
