@@ -6,7 +6,7 @@
   <title>GitHub Readme - Munkhbat</title>
 </head>
 <body>
-  <img src="https://i.pinimg.com/originals/97/72/a6/9772a650b4832c47534ede52108e40e2.gif" alt="astroman" height=400/> 
+  <img src="https://i.pinimg.com/originals/97/72/a6/9772a650b4832c47534ede52108e40e2.gif" alt="astroman" height=400 width=max/> 
   <h1>Hi, I'm Munkhbat! 👋</h1>
 
   <p>Welcome to my GitHub profile! I'm a passionate Junior Front-end Developer with a background in Graphic Design, based in Ulaanbaatar. I love bringing ideas to life through code and creating visually appealing and user-friendly interfaces.</p>
