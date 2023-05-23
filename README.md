@@ -7,7 +7,7 @@
   
 <body>
   <h1>Hi, I'm Munkhbat! 👋</h1>
-  <img src="https://i.pinimg.com/originals/36/65/33/3665336e01359e00e9965578acd66431.gif" alt="GhostShell" height=720 width="1080px" style="object-fit: cover;"/>  
+  <img src="https://i.pinimg.com/originals/36/65/33/3665336e01359e00e9965578acd66431.gif" alt="GhostShell" width="1080px" style="object-fit: cover;"/>  
   <p>Welcome to my GitHub profile! I'm a passionate Junior Front-end Developer with a background in Graphic Design, based in Ulaanbaatar. I love bringing ideas to life through code and creating visually appealing and user-friendly interfaces.</p>
 
   <h2>🚀 Experience and Skills</h2>
