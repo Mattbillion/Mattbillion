@@ -33,12 +33,12 @@
   <ul>
     <li>
       <a href="https://www.instagram.com/uuleins/" target="_blank">
-        <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png" alt="Instagram Icon" height=26>
+        <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png" alt="Instagram Icon" height=32>
       </a>
     </li>
     <li>
       <a href="https://www.instagram.com/">
-        <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_White_512px.png" alt="gmail Icon" height=32>
+        <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_White_512px.png" alt="gmail Icon" height=26>
       </a>
     </li>
   </ul>
