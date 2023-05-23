@@ -1,4 +1,4 @@
-###Hi, I'm Munkhbat! 👋
+<h1>Hi, I'm Munkhbat! 👋</h1>
 Welcome to my GitHub profile! I'm a passionate Junior Front-end Developer with a background in Graphic Design, based in Ulaanbaatar. I love bringing ideas to life through code and creating visually appealing and user-friendly interfaces.
 
 🚀 Experience and Skills
